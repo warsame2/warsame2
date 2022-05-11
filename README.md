@@ -1,7 +1,7 @@
 # Hi there, I'm Ali 
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=warsame2&how_icons=true&theme=cobalt" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaksi&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warsame2&layout=compact" />
 
 
 
